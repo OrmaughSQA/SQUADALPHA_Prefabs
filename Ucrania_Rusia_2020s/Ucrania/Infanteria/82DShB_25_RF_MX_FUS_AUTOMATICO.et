@@ -1,0 +1,84 @@
+SCR_ChimeraCharacter : "{B889387E9A33D667}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_Army/Character_RHS_USA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Fusilero automático"
+    Icon "{EF1F445746A3391A}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_MachineGunner.edds"
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{599A1E833BEF3A43}Prefabs/Weapons/MachineGuns/M249/MG_M249_base.et"
+  }
+  SCR_CharacterIdentityComponent "{5584CBC63E092DBC}" {
+   Identity Identity "{5584CBC6363C648B}" {
+    VisualIdentity VisualIdentity "{56E6D9456009D1C4}" {
+     Head "{FDF3993A05C780B0}Prefabs/Characters/Heads/Head_White_03/Head_White_03_camo_USSR_01.et"
+     Body "{0023F898C0FF18AA}Prefabs/Characters/Basebody/CharacterBasebody.et"
+    }
+   }
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{EED31918A22454F9}Prefabs/Characters/HeadGear/Helmet_ECH/variants/ECH_M14_ua.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{53E8315F68039B46}Prefabs/Characters/Uniforms/Shirt_CryeG3/Shirt_CryeG3_MM14.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{A665C7A47EC34003}Prefabs/Characters/Vests/Vest_PCGen_III/Vest_PCGen_III_UK.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{1818EE8132E2C650}Prefabs/Characters/Uniforms/Pants_CryeG3/Pants_CryeG3_MM14.et"
+    }
+    LoadoutSlotInfo Boots {
+     Prefab "{E716F95F4C7407BB}Prefabs/Characters/Footwear/Boots_Faradey_1085/Boots_Faradey_1085_Tan.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{36C85F105BF08261}Prefabs/Items/Equipment/Backpacks/Backpack_FILBE/Backpack_FILBE.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{8CCD7C0728F3BD3D}Prefabs/Characters/Vests/Vest_PCGen_III/Variants/Vest_PCGen_III_nobelt_MG.et"
+    }
+    LoadoutSlotInfo HandWear {
+     Prefab "{AE31F2E542A8E694}Prefabs/Characters/Handwear/Gloves_Oakley/Gloves_Oakley_Tan.et"
+    }
+    LoadoutSlotInfo Armband {
+     Prefab "{7DEDA95CC6A54555}Prefabs/Characters/Armbands/Single/Armband_Yellow.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{6063106CCCB65707}" {
+     TargetStorage "Pants/Pants_CryeG3_MM14.et"
+     PrefabsToSpawn {
+      "{D69684663E89D6EA}Prefabs/Items/Equipment/Radios/Radio_ANPRC152A_OLD.et" "{61D4F80E49BF9B12}Prefabs/Items/Equipment/Compass/Compass_SY183.et" "{F849217AB3BA88BE}Prefabs/Items/Equipment/Maps/Map_Paper_01/PaperMap_01_folded_USSR.et"
+     }
+    }
+    ItemsInitConfigurationItem "{6063106CCCB65709}" {
+     TargetStorage "Back/Backpack_FILBE.et"
+     TargetPurpose 1
+     PrefabsToSpawn {
+      "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et" "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et" "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et" "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et" "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et" "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et" "{5B2FD067D70C1E8F}Prefabs/Items/Medicine/EpinephrineInjection/ACE_Medical_EpinephrineInjection.et" "{5B2FD067D70C1E8F}Prefabs/Items/Medicine/EpinephrineInjection/ACE_Medical_EpinephrineInjection.et" "{527D7C5D2E476BDC}Prefabs/Items/Medicine/SalineBag_01/SalineBag_USSR_01.et" "{68022E6731BD0DCA}Prefabs/Weapons/Magazines/556x45_M249_200rnd/Box_556x45_M249_200rnd_4Ball_1Tracer_M855_M856.et" "{68022E6731BD0DCA}Prefabs/Weapons/Magazines/556x45_M249_200rnd/Box_556x45_M249_200rnd_4Ball_1Tracer_M855_M856.et" "{3343A055A83CB30D}Prefabs/Weapons/Grenades/M18/Smoke_M18_Red.et" "{D41D22DD1B8E921E}Prefabs/Weapons/Grenades/M18/Smoke_M18_Green.et" "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et"
+     }
+    }
+    ItemsInitConfigurationItem "{66FB1EE051152142}" {
+     TargetStorage "Vest/Vest_PCGen_III_nobelt_MG.et/saw/Pouch_PCGEN3_MG.et"
+     PrefabsToSpawn {
+      "{68022E6731BD0DCA}Prefabs/Weapons/Magazines/556x45_M249_200rnd/Box_556x45_M249_200rnd_4Ball_1Tracer_M855_M856.et"
+     }
+    }
+    ItemsInitConfigurationItem "{66FB1EE051152151}" {
+     TargetStorage "Vest/Vest_PCGen_III_nobelt_MG.et/saw2/Pouch_PCGEN3_MG.et"
+     PrefabsToSpawn {
+      "{68022E6731BD0DCA}Prefabs/Weapons/Magazines/556x45_M249_200rnd/Box_556x45_M249_200rnd_4Ball_1Tracer_M855_M856.et"
+     }
+    }
+   }
+  }
+ }
+ coords 0 0 0
+ angles 0 -67.559 0
+}
