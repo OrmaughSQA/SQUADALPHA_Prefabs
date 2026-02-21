@@ -1,352 +1,573 @@
-Segunda Guerra Mundial (Europa / Pacífico) / 1940s
-	Aliados
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque
-		Vehículos ligeros
-			Jeep Willys
-			Camión 2½-ton (logística)
-		Vehículos pesados
+World War II / 1940s
+	Allies
+		infanteria
+			rifleman
+			smg gunner
+			automatic rifleman
+			machine gunner
+			anti-tank (bazooka / PIAT)
+			combat engineer
+			medic
+			radio operator
+			sniper
+		vehículos ligeros
+			Willys Jeep
+			GMC CCKW “Deuce and a Half”
+			Universal Carrier (Bren Carrier)
+		vehículos pesados
 			M4 Sherman
-			M3/M5 Stuart
-		Aire
+			T-34-85
+			Churchill tank
+		aire
 			P-51 Mustang
 			Spitfire
-	Eje
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque
-		Vehículos ligeros
+			C-47 Dakota
+	Axis
+		infanteria
+			rifleman
+			smg gunner
+			machine gunner (MG34/42)
+			anti-tank (Panzerfaust / Panzerschreck)
+			pioneer / combat engineer
+			medic
+			radio operator
+			sniper
+		vehículos ligeros
 			Kübelwagen
-			Opel Blitz (camión)
-		Vehículos pesados
+			Opel Blitz
+			Sd.Kfz. 251 half-track
+		vehículos pesados
 			Panzer IV
+			Panther
 			Tiger I
-		Aire
+		aire
 			Bf 109
 			Fw 190
+			Ju 87 Stuka
 
-Guerra de Corea / 1950s
-	ONU (Coalición)
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque
-		Vehículos ligeros
-			Jeep / camión ligero (logística)
-		Vehículos pesados
+
+Korean War / 1950s
+	UN (US/ROK)
+		infanteria
+			rifleman
+			automatic rifleman
+			machine gunner
+			grenadier
+			mortar crew
+			combat engineer
+			medic
+			radio operator / forward observer
+			sniper
+		vehículos ligeros
+			Jeep (M38)
+			M35 “Deuce and a Half”
+		vehículos pesados
+			M4A3E8 Sherman (“Easy Eight”)
 			M26 Pershing
 			M46 Patton
-		Aire
+			M24 Chaffee
+		aire
 			F-86 Sabre
-	Corea del Norte
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque
-		Vehículos ligeros
-			Camiones GAZ/ZIS (genéricos)
-		Vehículos pesados
+			F-80 Shooting Star
+			B-29 Superfortress
+	KPA/CPV (North Korea / China)
+		infanteria
+			rifleman
+			automatic rifleman
+			machine gunner
+			grenadier
+			mortar crew
+			combat engineer
+			medic
+			radio operator / forward observer
+			anti-tank (PTRD/AT teams)
+		vehículos ligeros
+			GAZ trucks
+			ZIS/ZIL trucks
+		vehículos pesados
 			T-34-85
-		Aire
+			SU-76
+		aire
 			MiG-15
 
-Guerra de Vietnam / 1960s
-	EE. UU. / ARVN
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero (minas/demoliciones)
-			Operador de radio / Observador avanzado
-		Vehículos ligeros
+
+Vietnam War / 1960s–1970s
+	US/ARVN
+		infanteria
+			rifleman
+			grenadier (M79 / rifle grenades)
+			automatic rifleman
+			machine gunner
+			combat engineer
+			medic
+			radio-telephone operator (RTO)
+			observer / FAC (forward air control)
+			sniper
+			anti-tank (M72 LAW, late-war)
+		vehículos ligeros
 			M151 MUTT
-			PBR (patrulla fluvial, si aplica)
-		Vehículos pesados
-			M113
-		Aire
+			M35 truck
+			PBR (Patrol Boat, River)
+		vehículos pesados
+			M113 APC
+			M48 Patton
+			M41 Walker Bulldog (ARVN)
+		aire
 			UH-1 Huey
-			CH-47 Chinook (logística, si aplica)
-	NVA / Viet Cong
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Sapper (demoliciones)
-			Antitanque (RPG)
-		Vehículos ligeros
-			Bicicletas / motos (logística ligera, según escenario)
-			Technicals (según mod)
-		Vehículos pesados
-			BTR (según mod/representación)
-		Aire
-			— (a menudo no disponible en milsim centrado en infantería)
+			CH-47 Chinook
+			AH-1 Cobra
+			A-1 Skyraider
+	PAVN/NLF (North Vietnam / Viet Cong)
+		infanteria
+			rifleman
+			machine gunner
+			RPG gunner
+			sapper
+			mortar crew
+			medic
+			radio operator
+			sniper
+			AA gunner (DShK / ZU crews)
+		vehículos ligeros
+			GAZ-69
+			ZIL trucks
+		vehículos pesados
+			PT-76
+			T-54 / Type 59
+			BTR-60
+		aire
+			MiG-17
+			MiG-21
 
-Guerra Fría (Europa Central, conflicto hipotético milsim) / 1980s
-	OTAN
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque (AT)
-		Vehículos ligeros
-			Humvee (según facción)
-			Land Rover (según facción)
-		Vehículos pesados
-			M1 Abrams (según facción)
-			Leopard 2 (según facción)
-			M2 Bradley
-		Aire
-			UH-60 Black Hawk (transporte)
-			AH-64 Apache (ataque)
-	Pacto de Varsovia
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque (RPG/AT)
-		Vehículos ligeros
-			UAZ (patrulla)
-			Ural (logística)
-		Vehículos pesados
-			T-72
+
+Falklands War / 1980s
+	United Kingdom
+		infanteria
+			rifleman (light infantry / marines)
+			LMG gunner
+			GPMG gunner
+			anti-tank (Carl Gustav / MILAN)
+			mortar crew
+			combat engineer
+			medic
+			radio operator / forward observer
+			sniper / marksman
+		vehículos ligeros
+			Land Rover 88/109
+			Land Rover 101 FC
+			Bedford MK
+			BV202 (over-snow / tracked carrier)
+		vehículos pesados
+			FV101 Scorpion
+			FV107 Scimitar
+		aire
+			Sea Harrier
+			Harrier GR.3
+			Sea King
+			Chinook
+	Argentina
+		infanteria
+			rifleman
+			LMG gunner
+			machine gunner (HMG teams)
+			anti-tank (bazooka / recoilless / AT teams)
+			mortar crew
+			combat engineer
+			medic
+			radio operator / forward observer
+			sniper / marksman
+		vehículos ligeros
+			Mercedes-Benz Unimog
+			army trucks (logistics)
+		vehículos pesados
+			Panhard armoured car (90 mm)
+			LVTP-7 (AAV / Amtrac)
+			LARC-V
+		aire
+			A-4 Skyhawk
+			Dagger (Mirage 5)
+			Super Étendard
+			SH-3 Sea King
+
+
+Soviet–Afghan War / 1980s
+	USSR
+		infanteria
+			rifleman
+			automatic rifleman
+			machine gunner
+			grenadier
+			anti-tank (RPG / AT teams)
+			combat engineer
+			medic
+			radio operator / forward observer
+			sniper
+			AA gunner (ZU-23 / MANPADS teams)
+		vehículos ligeros
+			UAZ-469
+			Ural trucks
+		vehículos pesados
 			BMP-1 / BMP-2
-			BRDM-2
-		Aire
-			Mi-8 (transporte)
-			Mi-24 Hind (ataque)
+			BTR-70
+			T-62
+		aire
+			Mi-8
+			Mi-24
+	Mujahideen
+		infanteria
+			rifleman
+			machine gunner (DShK teams)
+			RPG gunner
+			sniper
+			sapper / IED (mines)
+			mortar crew
+			medic
+			radio runner
+			AA gunner (Stinger, from 1986)
+		vehículos ligeros
+			Toyota pickup (technicals)
+			motorcycles
+		vehículos pesados
+			—
+		aire
+			—
 
-Guerra del Golfo (Tormenta del Desierto) / 1990s
-	Coalición
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque (AT)
-		Vehículos ligeros
-			Humvee
-			Camión logístico (genérico)
-		Vehículos pesados
+
+Gulf War (Desert Storm) / 1990s
+	Coalition (US/UK/FR & allies)
+		infanteria
+			rifleman
+			grenadier
+			automatic rifleman
+			machine gunner
+			combat engineer
+			medic
+			radio operator / forward observer
+			anti-tank (TOW / AT4 teams)
+			anti-air (Stinger teams)
+		vehículos ligeros
+			HMMWV (Humvee)
+			HEMTT / logistics trucks
+		vehículos pesados
+			M1A1 Abrams
+			M2 Bradley
+			Challenger 1
+			Warrior IFV
+			AMX-30B2
+			LAV-25
+		aire
+			F-15E
+			F-16
+			A-10
+			AH-64 Apache
+	Iraq
+		infanteria
+			rifleman
+			grenadier
+			machine gunner
+			anti-tank (RPG / ATGM teams)
+			combat engineer
+			medic
+			radio operator / forward observer
+			AA gunner (AAA/SAM crews)
+			sniper
+		vehículos ligeros
+			Ural / KamAZ trucks
+			pickups (utility/technicals)
+		vehículos pesados
+			T-72 (export variants)
+			T-62
+			T-55
+			BMP-1 / BMP-2
+			BTR-60
+			ZSU-23-4 Shilka
+		aire
+			MiG-23
+			Mirage F1
+			Su-22
+
+
+Yugoslav Wars (Bosnia/Kosovo era) / 1990s
+	NATO / UNPROFOR / IFOR-SFOR-KFOR
+		infanteria
+			rifleman
+			grenadier
+			automatic rifleman
+			machine gunner
+			combat engineer
+			medic
+			radio operator
+			marksman
+			anti-tank (LAW / AT teams)
+		vehículos ligeros
+			HMMWV (Humvee)
+			utility trucks
+		vehículos pesados
+			M113 APC
+			Warrior IFV
+			VAB APC
+		aire
+			UH-60 Black Hawk
+			CH-47 Chinook
+	Yugoslav / Serb-led forces (VRS/VJ-style)
+		infanteria
+			rifleman
+			machine gunner
+			RPG gunner
+			mortar crew
+			sniper
+			combat engineer
+			medic
+			radio operator
+			ATGM gunner
+		vehículos ligeros
+			technicals / utility trucks
+		vehículos pesados
+			M-84
+			T-55
+			BVP M-80
+			BRDM-2
+			BOV APC
+		aire
+			Mi-8
+			J-22 Orao
+
+
+Chechen Wars / 1990s–2000s
+	Russia
+		infanteria
+			rifleman
+			grenadier
+			automatic rifleman
+			machine gunner
+			combat engineer
+			medic
+			radio operator
+			sniper / marksman
+			anti-tank (RPG/ATGM teams)
+		vehículos ligeros
+			UAZ-469
+			Ural trucks
+		vehículos pesados
+			T-72
+			T-80
+			BMP-2
+			BTR-80
+		aire
+			Mi-8
+			Mi-24
+			Su-25
+	Chechen separatists / insurgents
+		infanteria
+			rifleman
+			machine gunner
+			RPG gunner
+			sniper
+			sapper / IED
+			mortar crew
+			medic
+			radio runner
+			ATGM gunner (limited)
+		vehículos ligeros
+			pickups / technicals
+			civilian cars
+		vehículos pesados
+			captured BTR/BMP (limited)
+		aire
+			—
+
+
+War in Afghanistan (ISAF/Resolute Support) / 2000s–2010s
+	Coalition (ISAF)
+		infanteria
+			rifleman
+			grenadier
+			automatic rifleman
+			machine gunner
+			marksman
+			combat engineer / EOD
+			medic
+			radio operator
+			JTAC / forward observer
+			UAV operator (small drones)
+		vehículos ligeros
+			up-armored HMMWV
+			utility trucks
+			Jackal (UK)
+		vehículos pesados
+			MRAPs (Cougar / Mastiff / RG-31 family)
+			M-ATV
+		aire
+			CH-47 Chinook
+			UH-60 Black Hawk
+			AH-64 Apache
+			MQ-9 Reaper
+	Taliban / insurgents
+		infanteria
+			rifleman
+			machine gunner
+			RPG gunner
+			sapper / IED
+			mortar crew
+			medic
+			radio runner
+			sniper (limited)
+		vehículos ligeros
+			pickups / technicals
+			motorcycles
+		vehículos pesados
+			—
+		aire
+			—
+
+
+Iraq War (post-2003) / 2000s
+	Coalition
+		infanteria
+			rifleman
+			grenadier
+			automatic rifleman
+			machine gunner
+			marksman
+			combat engineer / EOD
+			medic
+			radio operator
+			JTAC / forward observer
+			anti-tank (AT4 / Javelin teams)
+		vehículos ligeros
+			HMMWV (up-armored)
+			logistics trucks
+		vehículos pesados
 			M1 Abrams
 			M2 Bradley
-		Aire
-			AH-64 Apache (ataque)
-			A-10 (CAS, si aplica)
-	Irak
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque (RPG/AT)
-		Vehículos ligeros
-			Pickup “technical”
-			Camión logístico (genérico)
-		Vehículos pesados
-			T-55
-			T-72 (export, según mod)
+			Stryker
+			MRAPs (various)
+		aire
+			UH-60 Black Hawk
+			AH-64 Apache
+			A-10
+	Insurgents / militias
+		infanteria
+			rifleman
+			machine gunner
+			RPG gunner
+			sniper
+			sapper / IED
+			VBIED cell (vehicle-borne IED)
+			mortar crew (limited)
+			radio runner
+		vehículos ligeros
+			pickups / technicals
+			civilian sedans / vans (VBIED)
+		vehículos pesados
+			captured BMP/T-55 (limited)
+		aire
+			—
+
+
+Syrian Civil War / 2010s–2020s
+	Syrian Government & aligned forces
+		infanteria
+			rifleman
+			machine gunner
+			grenadier
+			anti-tank (RPG / ATGM teams)
+			mortar crew
+			combat engineer
+			medic
+			radio operator
+			sniper / marksman
+		vehículos ligeros
+			utility trucks
+			technicals
+		vehículos pesados
+			T-72
+			T-62
 			BMP-1
-		Aire
-			Mi-8 / Mi-24 (según mod/título)
+			BTR-80 (and legacy BTR variants)
+		aire
+			Mi-8/17
+			Mi-24/35
+			Su-22
+			MiG-23
+	Opposition forces (incl. rebel factions / ISIS-era)
+		infanteria
+			rifleman
+			machine gunner
+			RPG gunner
+			ATGM gunner (captured/supplied)
+			sapper / IED
+			mortar crew
+			medic
+			radio runner
+			sniper (limited)
+		vehículos ligeros
+			technicals
+			civilian pickups
+		vehículos pesados
+			captured T-55/T-72 (limited)
+			captured BMP-1 (limited)
+		aire
+			—
 
-Guerras de los Balcanes (Bosnia / Kosovo) / 1990s
-	Fuerzas internacionales / locales
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Tirador designado
-		Vehículos ligeros
-			4x4 patrulla
-			Camión logístico (genérico)
-		Vehículos pesados
-			APC/IFV ligeros (según mod)
-		Aire
-			Helicóptero utilitario (según mod)
-	Milicias / fuerzas locales rivales
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Sapper (demoliciones)
-			Antitanque (RPG)
-		Vehículos ligeros
-			Technicals
-			4x4 logístico
-		Vehículos pesados
-			BTR/BMP heredados (según mod)
-		Aire
-			— (normalmente no)
 
-Guerras de Chechenia / 1990s–2000s
-	Rusia
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque (AT)
-		Vehículos ligeros
-			UAZ / 4x4 patrulla
-			Ural (logística)
-		Vehículos pesados
-			BTR-80
-			BMP-2
-		Aire
-			Mi-8 (transporte)
-			Mi-24 (ataque)
-	Insurgencia chechena
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario (limitado)
-			Sapper (IED/demoliciones)
-			Antitanque (RPG)
-		Vehículos ligeros
-			4x4 “technical”
-		Vehículos pesados
-			— (generalmente no)
-		Aire
-			— (no)
-
-Afganistán (COIN / GWOT) / 2000s–2010s
-	ISAF / Coalición
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero (EOD/IED)
-			Tirador designado
-		Vehículos ligeros
-			MRAP (M-ATV / RG-31, genérico)
-			Humvee
-		Vehículos pesados
-			APC/IFV (según mod, a menudo limitado)
-		Aire
-			CH-47 Chinook (transporte)
-			AH-64 Apache (ataque, si aplica)
-	Talibán / insurgencia
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario (limitado)
-			Sapper (IED)
-			Antitanque (RPG)
-		Vehículos ligeros
-			Pickup “technical”
-			Motos (movilidad rápida)
-		Vehículos pesados
-			— (asimetría: pocos o ninguno)
-		Aire
-			— (no)
-
-Irak post-2003 (COIN urbano) / 2000s
-	Coalición
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero (EOD/IED)
-			Tirador designado
-		Vehículos ligeros
-			Humvee
-			MRAP (según mod)
-		Vehículos pesados
-			M1 Abrams (según escenario)
-			IFV/APC (según mod)
-		Aire
-			UH-60 (transporte, si aplica)
-			AH-64 (ataque, si aplica)
-	Insurgencia
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario (limitado)
-			Sapper (IED/VBIED)
-			Antitanque (RPG)
-		Vehículos ligeros
-			Technicals
-			VBIED (en simulación, si el título lo modela)
-		Vehículos pesados
-			— (generalmente no)
-		Aire
-			— (no)
-
-Guerra civil en Siria / 2010s–2020s
-	Fuerzas gubernamentales + aliados
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque (AT/ATGM)
-		Vehículos ligeros
-			Technicals / pickups armados
-			Camión logístico (genérico)
-		Vehículos pesados
-			T-72 / T-90 (según mod)
-			BMP-2
-		Aire
-			Mi-8 (transporte)
-			Mi-24 (ataque)
-	Rebeldes / milicias
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Sapper (IED)
-			Antitanque (AT/ATGM)
-		Vehículos ligeros
-			Technicals
-			4x4 / furgonetas (logística)
-		Vehículos pesados
-			Vehículos capturados (según escenario/mod)
-		Aire
-			— (raro en milsim; a veces drones si el mod lo permite)
-
-Conflicto Ucrania–Rusia (guerra moderna) / 2010s–2020s
-	Ucrania
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero (minas/fortificación)
-			Antitanque (AT/ATGM)
-		Vehículos ligeros
-			4x4 táctico / MRAP (según mod)
-			Pickup logístico
-		Vehículos pesados
-			IFV/APC (según mod)
-			Tanque (según mod)
-		Aire
-			Drones ISR (si el título/mod los implementa)
-	Rusia
-		Infantería
-			Fusilero
-			Ametrallador
-			Sanitario
-			Ingeniero
-			Antitanque (AT)
-		Vehículos ligeros
-			Tigr / 4x4 táctico (según mod)
-			Ural/Kamaz (logística)
-		Vehículos pesados
-			T-72 / T-80 / T-90 (según mod)
-			BMP/BTR
-		Aire
-			Mi-8 (transporte)
-			Ka-52 / Mi-28 (ataque, si aplica)
+Russo-Ukrainian War / 2010s–2020s
+	Ukraine
+		infanteria
+			rifleman
+			grenadier
+			automatic rifleman
+			machine gunner
+			marksman
+			combat engineer
+			medic
+			anti-tank (NLAW / Javelin teams)
+			anti-air (MANPADS teams)
+			drone operator (FPV / ISR)
+			forward observer (artillery)
+		vehículos ligeros
+			4x4 utility vehicles
+			MRAPs (assorted, incl. MaxxPro-family)
+		vehículos pesados
+			T-64
+			T-72
+			Leopard 2
+			Challenger 2
+			M2 Bradley
+			CV90
+			Marder
+		aire
+			Mi-8
+			Mi-24
+			Su-25
+			Bayraktar TB2 (UAV)
+	Russia
+		infanteria
+			rifleman
+			grenadier
+			automatic rifleman
+			machine gunner
+			marksman / sniper
+			combat engineer
+			medic
+			anti-tank (RPG/ATGM teams)
+			anti-air (MANPADS teams)
+			drone operator (Orlan/Lancet/FPV)
+			forward observer (artillery)
+		vehículos ligeros
+			Tigr (GAZ)
+			KamAZ / Ural trucks
+		vehículos pesados
+			T-72B3
+			T-80BVM
+			T-90M
+			BMP-2 / BMP-3
+			BTR-82A
+			MT-LB
+		aire
+			Ka-52
+			Mi-28
+			Su-34
+			Orlan-10/30 (UAV)
+			Lancet (loitering munition)
+			Geran-2 / Shahed-136 (UAV)
