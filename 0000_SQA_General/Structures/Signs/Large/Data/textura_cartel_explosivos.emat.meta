@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{61C5778F145AA690}Assets/Structures/Signs/Large/Data/textura_cartel_explosivos.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

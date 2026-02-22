@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{8232AD31E0A5BDB6}Assets/Structures/Signs/Large/Data/textura_cartel_1.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

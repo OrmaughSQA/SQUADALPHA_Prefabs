@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{84ACCB7A29BA0C61}Assets/Characters/Patches/data/TEXTURA_PARCHE_SQA.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

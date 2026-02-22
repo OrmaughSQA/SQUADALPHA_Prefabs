@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{0A8FA6710C31EABA}Assets/Structures/Signs/Large/Data/textura_cartel_campo_tiro.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

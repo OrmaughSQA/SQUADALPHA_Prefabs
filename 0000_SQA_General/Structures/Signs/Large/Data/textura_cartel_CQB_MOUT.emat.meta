@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{1A967A128880F1B8}Assets/Structures/Signs/Large/Data/textura_cartel_CQB_MOUT.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

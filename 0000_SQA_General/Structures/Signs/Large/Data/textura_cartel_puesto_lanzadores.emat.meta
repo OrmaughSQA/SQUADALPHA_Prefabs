@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B2D352EFE8DE89B3}Assets/Structures/Signs/Large/Data/textura_cartel_puesto_lanzadores.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

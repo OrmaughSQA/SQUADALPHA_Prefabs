@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7FD670D21E6D769D}Assets/Structures/Signs/Large/Data/textura_cartel_reamunicionamiento.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
